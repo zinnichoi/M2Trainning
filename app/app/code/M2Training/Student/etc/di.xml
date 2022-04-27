@@ -4,7 +4,7 @@
     <type name="Magento\Framework\View\Element\UiComponent\DataProvider\CollectionFactory">
         <arguments>
             <argument name="collections" xsi:type="array">
-                <item name="m2training_student_grid_data_source" xsi:type="string">M2Training\Student\Model\ResourceModel\Student\Grid\Collection</item>
+                <item name="m2training_students_grid_data_source" xsi:type="string">M2Training\Student\Model\ResourceModel\Student\Grid\Collection</item>
             </argument>
         </arguments>
     </type>
