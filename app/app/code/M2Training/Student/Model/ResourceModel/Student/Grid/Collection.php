@@ -1,6 +1,6 @@
 <?php
 
-namespace M2Training\Student\Model\ResourceModel\Grid;
+namespace M2Training\Student\Model\ResourceModel\Student\Grid;
 
 
 use Magento\Framework\Data\Collection\Db\FetchStrategyInterface as FetchStrategy;
